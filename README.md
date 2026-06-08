@@ -4,4 +4,4 @@ The 'Warranty Hub' is an app that tracks your warranties and reminds you before 
 NOTE: This project has only the UI and has some functionalities. You can test it using (FIGMA).
 
 ************************
-The 'Warranty Hub App' is a project for the Human Computer Interaction course at JIC.
+**The 'Warranty Hub App' is a project for the Human Computer Interaction course at JIC.**
